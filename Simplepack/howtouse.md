@@ -28,14 +28,19 @@
 ```
 #整合包版本...
 #游戏版本...
+ 
 *Optimized V1.0 Alpha
 *使用的是 1.20.1 游戏版本，装载Fabric 0.14.22，FabricAPI 0.87.0
+ 
 *Optimized V1.1 Alpha
 *使用的是 1.20.1 游戏版本，装载Fabric 0.14.22，FabricAPI 0.87.0
+ 
 *Lazyboy Pack V2.0 Alpha
 *使用的是 1.20.1 游戏版本，装载Fabric 0.14.22，FabricAPI 0.87.0
+ 
 *Simple Pack V2.1 Beta
 *使用的是 1.20.1 游戏版本，装载Fabric 0.15.7，FabricAPI 0.92.0+
+ 
 *Simple Pack V2.2 Beta
 *使用的是 1.21.1 游戏版本，装载Fabric 0.18.4，FabricAPI 0.116.8+
 ```
