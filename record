@@ -1,1 +1,1 @@
-本地用python部署docsify测试：python -m http.server 3000
+python -m http.server 3000
